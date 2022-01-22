@@ -80,7 +80,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `python(3) -m pyUltroid`
 
 ### Ultroid CLI
-[Ultroid CLI](https://github.com/BLUE-DEVIL1134/UltroidCli) is a command-line interface for deploying Ultroid.   
+[Ultroid CLI](https://github.com/learningbots79/UltroidCli) is a command-line interface for deploying Ultroid.   
 
 - **Installing** -    
 Run the following code on a terminal, with curl installed.   
@@ -115,7 +115,7 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 
 # Credits
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
+* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/learningbots79/Telethon)
+* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/learningbots79/tgcalls)
 
 > Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
